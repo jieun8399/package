@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'JalnanGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+ }
+ 
+ body, ul, li {
+    padding:0;
+    margin:0;
+    list-style:none;
+  }
+  a {
+    color:inherit;
+    text-decoration:none;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+ 
+ p {
+    font-family: 'JalnanGothic';
+    font-size: 2vw;
+ }
+ .txt01 {
+    color: black;
+ }
+ .txt02 {
+    color: blue;
+ }
